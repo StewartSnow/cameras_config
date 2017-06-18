@@ -1,7 +1,7 @@
-Openhab 2:
+## Openhab 2
 http://openhab-fc.snowsd.com:8085/classicui/CMD?AlarmStatus_PondCamera=ON
 
-Openhab 1:
+## Openhab 1:
 http://openhab-fc.snowsd.com:8085/CMD?AlarmStatus_PondCamera=ON
 http://openhab-fc.snowsd.com:8085/CMD?SwitchLivingRoom=OFF
 
